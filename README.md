@@ -6,4 +6,4 @@ This Weather App is a mobile application developed using React Native, designed 
 
 Check it out here:
 
-[![weatherApp](https://img.youtube.com/vi/YGPit8aMIv8&ab_channel=traf/0.jpg)](https://www.youtube.com/watch?v=YGPit8aMIv8&ab_channel=traf)
+[![weatherApp](https://img.youtube.com/vi/YGPit8aMIv8/0.jpg)](https://www.youtube.com/watch?v=YGPit8aMIv8&ab_channel=traf)
