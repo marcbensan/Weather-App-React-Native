@@ -2,7 +2,7 @@
 ![Weather App](https://github.com/venomspood/weatherApp/assets/139300806/12598909-3113-4eba-8004-60648aa76104)
 
 
-This Weather App is a mobile application developed using React Native, designed to provide users with up-to-the-minute weather information at their fingertips. With a user interface created using Tailwind CSS through Nativewind.
+This Weather App is a mobile application I developed using React Native, designed to provide users with up-to-the-minute weather information at their fingertips. With a user interface created using Tailwind CSS through Nativewind.
 
 Check it out here:
 
